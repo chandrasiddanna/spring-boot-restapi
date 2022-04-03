@@ -4,7 +4,7 @@ This is a simple REST API in spring boot that accepts a list of Names and Postco
 
 The API should also has an endpoint that receives a postcode range and returns in the response body the list of names belonging to that postcode range, sorted alphabetically as well as the total number of characters of all names combined. 
 
-I have used Spring Boot, Lombok, JPA Repository, MYSQl DB and Junit.
+I have used Spring Boot, JPA Repository, MYSQl DB and Junit.
 
 Running the project from root directory:
 
